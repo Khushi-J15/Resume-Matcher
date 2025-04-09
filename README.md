@@ -1,3 +1,15 @@
+
+
+
+
+
+![Screenshot (73)](https://github.com/user-attachments/assets/8950b157-4aec-4592-b648-6854515588d6)
+
+
+
+
+
+
 AI Powered Resume Screener
 
 It is basically a resume shortlisting app which deep down works by capturing semantic similarity between words and their context in NLP. 
@@ -20,11 +32,5 @@ that the end user gets well classified, tailored resumes out of all .
 
 At the UI part  I have made it a multipage application by introducing an admin section that provides 
 summary of shortlisted candidates using bar charts and pie charts 
-
-
-
-
-![Screenshot (73)](https://github.com/user-attachments/assets/c68d436b-aa02-4654-8fbe-abdd077eb5b6)
-
 
 
