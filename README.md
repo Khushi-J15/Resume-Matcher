@@ -18,5 +18,13 @@ one more factor is used while making the model which is the use of weighted simi
 job desc the model will give more weightage to experience and skills section , this step makes sure 
 that the end user gets well classified, tailored resumes out of all .
 
-  At the UI part  I have made it a multipage application by introducing an admin section that provides 
+At the UI part  I have made it a multipage application by introducing an admin section that provides 
 summary of shortlisted candidates using bar charts and pie charts 
+
+
+
+
+![Screenshot (73)](https://github.com/user-attachments/assets/1f3c4120-7802-40a8-8a9b-8a618528a420)
+
+
+
