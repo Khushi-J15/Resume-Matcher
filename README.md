@@ -1,4 +1,4 @@
-#h1 AI Powered Resume Screener
+AI Powered Resume Screener
 
 It is basically a resume shortlisting app which deep down works by capturing semantic similarity between words and their context in NLP. 
 
