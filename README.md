@@ -24,7 +24,7 @@ summary of shortlisted candidates using bar charts and pie charts
 
 
 
-![Screenshot (73)](https://github.com/user-attachments/assets/1f3c4120-7802-40a8-8a9b-8a618528a420)
+![Screenshot (73)](https://github.com/user-attachments/assets/c68d436b-aa02-4654-8fbe-abdd077eb5b6)
 
 
 
